@@ -13,3 +13,4 @@
 :root {
 	--font-primary: 'Karla', sans-serif;
 	--font-display: var(--font-primary) !important;
+	--home-image: url('https://www.seekpng.com/png/small/0-9737_batman-logo-1-thumb-batman-logo-png-white.png');
